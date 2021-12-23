@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+}
+
+.container-Cronometro {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#cronometro {
+  background-color: white;  
+  margin: 0px;
+  
+}
+#tiempo{
+  margin: 50px;
+  font-size:5rem;
+}
